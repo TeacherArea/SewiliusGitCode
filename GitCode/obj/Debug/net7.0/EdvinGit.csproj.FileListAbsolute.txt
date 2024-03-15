@@ -1,0 +1,14 @@
+C:\Users\edvin.nyholm\Documents\Programmering\EdvinGit\EdvinGit\bin\Debug\net7.0\EdvinGit.exe
+C:\Users\edvin.nyholm\Documents\Programmering\EdvinGit\EdvinGit\bin\Debug\net7.0\EdvinGit.deps.json
+C:\Users\edvin.nyholm\Documents\Programmering\EdvinGit\EdvinGit\bin\Debug\net7.0\EdvinGit.runtimeconfig.json
+C:\Users\edvin.nyholm\Documents\Programmering\EdvinGit\EdvinGit\bin\Debug\net7.0\EdvinGit.dll
+C:\Users\edvin.nyholm\Documents\Programmering\EdvinGit\EdvinGit\bin\Debug\net7.0\EdvinGit.pdb
+C:\Users\edvin.nyholm\Documents\Programmering\EdvinGit\EdvinGit\obj\Debug\net7.0\EdvinGit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvin.nyholm\Documents\Programmering\EdvinGit\EdvinGit\obj\Debug\net7.0\EdvinGit.AssemblyInfoInputs.cache
+C:\Users\edvin.nyholm\Documents\Programmering\EdvinGit\EdvinGit\obj\Debug\net7.0\EdvinGit.AssemblyInfo.cs
+C:\Users\edvin.nyholm\Documents\Programmering\EdvinGit\EdvinGit\obj\Debug\net7.0\EdvinGit.csproj.CoreCompileInputs.cache
+C:\Users\edvin.nyholm\Documents\Programmering\EdvinGit\EdvinGit\obj\Debug\net7.0\EdvinGit.dll
+C:\Users\edvin.nyholm\Documents\Programmering\EdvinGit\EdvinGit\obj\Debug\net7.0\refint\EdvinGit.dll
+C:\Users\edvin.nyholm\Documents\Programmering\EdvinGit\EdvinGit\obj\Debug\net7.0\EdvinGit.pdb
+C:\Users\edvin.nyholm\Documents\Programmering\EdvinGit\EdvinGit\obj\Debug\net7.0\EdvinGit.genruntimeconfig.cache
+C:\Users\edvin.nyholm\Documents\Programmering\EdvinGit\EdvinGit\obj\Debug\net7.0\ref\EdvinGit.dll
