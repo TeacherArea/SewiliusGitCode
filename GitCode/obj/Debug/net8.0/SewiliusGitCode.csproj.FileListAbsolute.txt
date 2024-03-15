@@ -1,0 +1,14 @@
+C:\code\TeacherArea\SewiliusGitCode\SewiliusGitCode\bin\Debug\net8.0\SewiliusGitCode.exe
+C:\code\TeacherArea\SewiliusGitCode\SewiliusGitCode\bin\Debug\net8.0\SewiliusGitCode.deps.json
+C:\code\TeacherArea\SewiliusGitCode\SewiliusGitCode\bin\Debug\net8.0\SewiliusGitCode.runtimeconfig.json
+C:\code\TeacherArea\SewiliusGitCode\SewiliusGitCode\bin\Debug\net8.0\SewiliusGitCode.dll
+C:\code\TeacherArea\SewiliusGitCode\SewiliusGitCode\bin\Debug\net8.0\SewiliusGitCode.pdb
+C:\code\TeacherArea\SewiliusGitCode\SewiliusGitCode\obj\Debug\net8.0\SewiliusGitCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\TeacherArea\SewiliusGitCode\SewiliusGitCode\obj\Debug\net8.0\SewiliusGitCode.AssemblyInfoInputs.cache
+C:\code\TeacherArea\SewiliusGitCode\SewiliusGitCode\obj\Debug\net8.0\SewiliusGitCode.AssemblyInfo.cs
+C:\code\TeacherArea\SewiliusGitCode\SewiliusGitCode\obj\Debug\net8.0\SewiliusGitCode.csproj.CoreCompileInputs.cache
+C:\code\TeacherArea\SewiliusGitCode\SewiliusGitCode\obj\Debug\net8.0\SewiliusGitCode.dll
+C:\code\TeacherArea\SewiliusGitCode\SewiliusGitCode\obj\Debug\net8.0\refint\SewiliusGitCode.dll
+C:\code\TeacherArea\SewiliusGitCode\SewiliusGitCode\obj\Debug\net8.0\SewiliusGitCode.pdb
+C:\code\TeacherArea\SewiliusGitCode\SewiliusGitCode\obj\Debug\net8.0\SewiliusGitCode.genruntimeconfig.cache
+C:\code\TeacherArea\SewiliusGitCode\SewiliusGitCode\obj\Debug\net8.0\ref\SewiliusGitCode.dll
