@@ -16,7 +16,7 @@
                 }
                 else if (run == 2)
                 {
-                    Sewilius();
+                    Counter();
                 }
                 else
                 {
@@ -29,9 +29,12 @@
         {
             Console.WriteLine("Hello from GitCode");
         }
-        static void Sewilius()
+        static void Counter()
         {
-            Console.WriteLine("Hello from Sewilius");
+            for (int i = 0; i < 10; i++) {
+                Console.WriteLine(i);
+            }
+            
         }
     }
 }

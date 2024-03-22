@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\code\\TeacherArea\\GitCode\\GitCode\\GitCode.csproj",
+      "projectUniqueName": "C:\\Users\\sewilius.berg\\source\\SewiliusGitCode\\GitCode\\GitCode.csproj",
       "projectName": "GitCode",
-      "projectPath": "C:\\code\\TeacherArea\\GitCode\\GitCode\\GitCode.csproj",
+      "projectPath": "C:\\Users\\sewilius.berg\\source\\SewiliusGitCode\\GitCode\\GitCode.csproj",
       "packagesPath": "C:\\Users\\sewilius.berg\\.nuget\\packages\\",
-      "outputPath": "C:\\code\\TeacherArea\\GitCode\\GitCode\\obj\\",
+      "outputPath": "C:\\Users\\sewilius.berg\\source\\SewiliusGitCode\\GitCode\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
