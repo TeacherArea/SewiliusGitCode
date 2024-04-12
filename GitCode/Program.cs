@@ -32,9 +32,9 @@
         static void Counter()
         {
             for (int i = 0; i < 10; i++) {
-                Console.WriteLine(i);
+                Console.Write(i + "");
             }
-            
+            Console.WriteLine("Slut på uppräkningen")
         }
     }
 }
