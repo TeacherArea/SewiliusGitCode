@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GitCode
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\arvin.shadmand\Source\Repos\SewiliusGitCode\GitCode\
+=======
+build_property.ProjectDir = c:\Users\sewilius.berg\Music\tada\GitCode\
+>>>>>>> 859e7fc7e16df4abe57154bf234dc41c635bfe88
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
