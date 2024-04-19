@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\code\\TeacherArea\\C#\\",
+  "WorkspaceRootPath": "C:\\Users\\oliver.bafverholm\\source\\repos\\SewiliusGitCode\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8B35D67-2616-4B55-B846-5DE906C7F93F}|GitCode\\GitCode.csproj|c:\\code\\teacherarea\\c#\\gitcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8B35D67-2616-4B55-B846-5DE906C7F93F}|GitCode\\GitCode.csproj|c:\\users\\oliver.bafverholm\\source\\repos\\sewiliusgitcode\\gitcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8B35D67-2616-4B55-B846-5DE906C7F93F}|GitCode\\GitCode.csproj|solutionrelative:gitcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -14,25 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\code\\TeacherArea\\C#\\GitCode\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\oliver.bafverholm\\source\\repos\\SewiliusGitCode\\GitCode\\Program.cs",
               "RelativeDocumentMoniker": "GitCode\\Program.cs",
-              "ToolTip": "C:\\code\\TeacherArea\\C#\\GitCode\\Program.cs",
+              "ToolTip": "C:\\Users\\oliver.bafverholm\\source\\repos\\SewiliusGitCode\\GitCode\\Program.cs",
               "RelativeToolTip": "GitCode\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAyAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T08:10:08.218Z",
               "EditorCaption": ""
