@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Välkommen till Samarbetsappen");
+            Console.WriteLine("Välkommen till Adrian");
             int run = 0;
             while (true)
             {
@@ -13,6 +13,8 @@
                 if (run == 1)
                 {
                     Greetings();
+
+                    Console.WriteLine("Ändring");
                 }
                 else if (run == 2)
                 {
