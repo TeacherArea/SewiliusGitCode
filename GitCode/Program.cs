@@ -20,7 +20,7 @@
                 }
                 else
                 {
-                    Console.WriteLine("Hej då");
+                    Console.WriteLine("Hej då igen");
                     break;
                 }
             }

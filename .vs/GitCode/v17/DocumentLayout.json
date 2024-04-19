@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\code\\TeacherArea\\GitCode\\",
+  "WorkspaceRootPath": "C:\\code\\TeacherArea\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C8B35D67-2616-4B55-B846-5DE906C7F93F}|GitCode\\GitCode.csproj|c:\\code\\teacherarea\\gitcode\\gitcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8B35D67-2616-4B55-B846-5DE906C7F93F}|GitCode\\GitCode.csproj|c:\\code\\teacherarea\\c#\\gitcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8B35D67-2616-4B55-B846-5DE906C7F93F}|GitCode\\GitCode.csproj|solutionrelative:gitcode\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\code\\TeacherArea\\GitCode\\GitCode\\Program.cs",
+              "DocumentMoniker": "C:\\code\\TeacherArea\\C#\\GitCode\\Program.cs",
               "RelativeDocumentMoniker": "GitCode\\Program.cs",
-              "ToolTip": "C:\\code\\TeacherArea\\GitCode\\GitCode\\Program.cs",
+              "ToolTip": "C:\\code\\TeacherArea\\C#\\GitCode\\Program.cs",
               "RelativeToolTip": "GitCode\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-15T08:10:08.218Z",
               "EditorCaption": ""

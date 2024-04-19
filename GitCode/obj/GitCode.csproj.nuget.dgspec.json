@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sewilius.berg\\source\\SewiliusGitCode\\GitCode\\GitCode.csproj": {}
+    "C:\\code\\TeacherArea\\C#\\GitCode\\GitCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sewilius.berg\\source\\SewiliusGitCode\\GitCode\\GitCode.csproj": {
+    "C:\\code\\TeacherArea\\C#\\GitCode\\GitCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sewilius.berg\\source\\SewiliusGitCode\\GitCode\\GitCode.csproj",
+        "projectUniqueName": "C:\\code\\TeacherArea\\C#\\GitCode\\GitCode.csproj",
         "projectName": "GitCode",
-        "projectPath": "C:\\Users\\sewilius.berg\\source\\SewiliusGitCode\\GitCode\\GitCode.csproj",
+        "projectPath": "C:\\code\\TeacherArea\\C#\\GitCode\\GitCode.csproj",
         "packagesPath": "C:\\Users\\sewilius.berg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sewilius.berg\\source\\SewiliusGitCode\\GitCode\\obj\\",
+        "outputPath": "C:\\code\\TeacherArea\\C#\\GitCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -65,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
