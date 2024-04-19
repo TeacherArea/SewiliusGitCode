@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\viktor.osterberg\\Source\\Repos\\SewiliusGitCode\\GitCode\\GitCode.csproj": {}
+    "C:\\Users\\viktor.osterberg\\source\\repos\\SewiliusGitCode\\GitCode\\GitCode.csproj": {}
   },
   "projects": {
-    "C:\\Users\\viktor.osterberg\\Source\\Repos\\SewiliusGitCode\\GitCode\\GitCode.csproj": {
+    "C:\\Users\\viktor.osterberg\\source\\repos\\SewiliusGitCode\\GitCode\\GitCode.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\viktor.osterberg\\Source\\Repos\\SewiliusGitCode\\GitCode\\GitCode.csproj",
+        "projectUniqueName": "C:\\Users\\viktor.osterberg\\source\\repos\\SewiliusGitCode\\GitCode\\GitCode.csproj",
         "projectName": "GitCode",
-        "projectPath": "C:\\Users\\viktor.osterberg\\Source\\Repos\\SewiliusGitCode\\GitCode\\GitCode.csproj",
+        "projectPath": "C:\\Users\\viktor.osterberg\\source\\repos\\SewiliusGitCode\\GitCode\\GitCode.csproj",
         "packagesPath": "C:\\Users\\viktor.osterberg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\viktor.osterberg\\Source\\Repos\\SewiliusGitCode\\GitCode\\obj\\",
+        "outputPath": "C:\\Users\\viktor.osterberg\\source\\repos\\SewiliusGitCode\\GitCode\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
